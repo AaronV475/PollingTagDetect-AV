@@ -1,0 +1,6 @@
+exe
+EWARM
+SW4STM32
+Binary
+STM32L0xx*
+STM32L4xx*
